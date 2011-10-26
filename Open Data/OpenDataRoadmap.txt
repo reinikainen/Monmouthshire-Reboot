@@ -1,0 +1,56 @@
+﻿Monmouthshire Open Data Roadmap
+
+What is Open Data?
+
+Open data is the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control. 1
+The reason that open data has exploded on the agenda is that with new communications technology there is a recognition that the data sets that government has historically collected can have further civic value if they are made available to developers who can turn them into applications for the public.  
+
+Why should we do Open Data?
+
+1. The data we collect and store has been paid for by the tax payer and therefore belongs to them.
+2. By making the data available to the public, it can be re-purposed into applications that can further enhance the civic value of that data.
+3. We can save costs in servicing freedom of information requests if that data is freely available.
+4. Making our data available contributes to the transparency required of open government.
+
+Restricted Data
+
+Any data which contains personal identifiable, pertaining to vulnerable people, commercially confidential, or otherwise legally restricted or sensitive information is considered 'restricted data' and falls out with any open data considerations.  Restricted data is restricted, however we should not use this classification as an excuse to obscure legitimately open data sets.
+
+Some examples:
+
+Information on bicycle accident hotspots was published by the Department for Transport here http://innovate.direct.gov.uk/2009/03/10/pedalling-some-raw-data/ and within 48 hours the data had been reformatted by developers into a google map http://zoo.f2s.com/rewired/ so people could plan their cycle routes to avoid accident blackspots.
+
+Live transport data: several cities including Zurich, Helsinki, and several US metropolitan areas have made their live transportation data available, which in turn has allowed developers to create smartphone apps that allow citizens to plan their public transport journeys more effectively and in real time.
+
+Energy Consumption Competition: the use of real time energy consumption data from various government departments was fed into an app that compared usage between those departments, and was translated into an energy efficiency competition resulting in massive financial savings on energy bills http://data.gov.uk/energy-consumption-competition 
+
+Monmouthshire Open Data Road Map  
+
+1. Security and policy buy in
+The first step will be to explain the ambitions and technicalities involved in becoming an open data enabled authority.  This will require coordination with and buy-in from IT security, the legal department, and the information systems management team.  
+
+2. Adopt Open Government Licence
+We should move to adopt the open government licence OGL for all of our published documentation, websites, and (non-restricted) data sets. Based on the creative commons licensing framework, the OGL has been approved for use by central government and provides a legal basis for the reuse of government data. The licence text can be found here: http://www.nationalarchives.gov.uk/doc/open-government-licence/open-government-licence.htm and further information about the licensing framework is here: http://data.gov.uk/blog/new-open-government-license 
+
+3. Provide existing (indentified) data sets
+We should start by making available data sets that we know are already in demand by the developer community. Broadly speaking, data which answers the where is, what is, and when can I questions is a good starting point.  Location data for public facilities, timetable information, opening times, live location data (bin lorries, public transport, gritters GPS etc). Energy usage data.  All of these should be provided in machine readable formats, for example csv files so that they can easily be interpreted by applications.  We can start with a few specific data sets that have been requested as they can be fed into existing applications and be of immediate benefit.
+
+4. Create data store
+The next step is to make these opened data sets available via the internet.  The simplest way to do this is via an indexed web page which offers the data sets as downloadable files.  In time we should evolve this to become a more fully featured data store, examples of which are http://data.gov.uk/ , http://data.london.gov.uk/ , http://datagm.org.uk/ 
+There is a real opportunity to become leaders in Wales in this area, and given our partnership with SRS, if we can develop the template, there are commercialisation opportunities in selling turnkey data store solutions to other authorities in Wales and the UK.
+
+5. Achieve openly local gold standard
+Adopting the OGL and presenting a data sets for download on the web are enough to be considered an 'open council' by openly local http://openlylocal.com but by further refining the way we serve up information related to the democratic process (Councillor information, meeting agendas, minutes, etc) using RSS feeds we can define the gold standard.
+
+6. Develop own applications
+Once we are serving data sets and responding to community demand, we should host a hackathon where developer talent is invited in to use our data sets and 'make stuff'.  Also given the developer resource at SRS there is an opportunity to create custom applications for our requirements.
+ 
+7. Linked Gov partner authority
+Linked open data is the next step in open data, in that it contains machine readable metadata that allows it to interact with other data.  This is where open data meets the semantic web, and allows the cross referencing of data sets to create richer applications and wider scale benchmarking tools. Linkedgov is an organisation at the leading edge of linked open data development, and there is an opportunity to become the lead authority in the local government sector for linked open data if we make ourselves available as partners. http://linkedgov.org/?page_id=127
+
+8. Sell data store solution to other counties.
+With the combination of an (relatively) early start in this area of open data and the technological advantage our partnership with SRS gives us, we can be the test bed for services that can be sold on to other authorities.  There is an early mover advantage to be capitalised on, but in this fast moving area the window will close soon.
+
+
+
+
