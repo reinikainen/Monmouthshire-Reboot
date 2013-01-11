@@ -1,1 +1,2 @@
 Test file for GitHub
+Adding some text so I can test the diff tool.
